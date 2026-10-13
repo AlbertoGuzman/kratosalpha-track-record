@@ -1,9 +1,10 @@
 # kairos — Track Record público
 
-Actualizado: 2026-10-12 15:22h
+Actualizado: 2026-10-13 15:21h
 
 | F. Compra | Ticker | P. Compra | F. Venta | P. Venta | P. Actual | PnL% | Estado |
 |-----------|--------|-----------|----------|----------|-----------|------|--------|
+| 2026-10-13 | HPQ | 29.83 | - | - | 30.00 | +0.56% | Abierta |
 | 2026-10-08 | PH | 942.25 | 2026-10-12 | 962.56 | - | +2.16% | Cerrada |
 | 2026-10-05 | GILD | 143.29 | 2026-10-08 | 146.85 | - | +2.48% | Cerrada |
 | 2026-10-05 | JNJ | 253.47 | 2026-10-08 | 258.45 | - | +1.96% | Cerrada |
@@ -13,4 +14,4 @@ Actualizado: 2026-10-12 15:22h
 | 2026-09-25 | AMP | 497.46 | 2026-09-28 | 493.00 | - | -0.90% | Cerrada |
 | 2026-09-24 | WTW | 295.82 | 2026-09-29 | 292.11 | - | -1.25% | Cerrada |
 
-Operaciones cerradas: 8 · Win rate: 50% · Capital: 10,081€ (+0.81%)
+Operaciones cerradas: 8 · Win rate: 50% · Capital: 10,080€ (+0.80%)
