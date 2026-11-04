@@ -1,6 +1,6 @@
 # kairos — Track Record público
 
-Actualizado: 2026-11-04 11:31h
+Actualizado: 2026-11-04 12:12h
 
 | F. Compra | Ticker | P. Compra | F. Venta | P. Venta | P. Actual | PnL% | Estado |
 |-----------|--------|-----------|----------|----------|-----------|------|--------|
